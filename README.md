@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/JohnMwendwa/pricing-component-with-toggle](https://github.com/JohnMwendwa/pricing-component-with-toggle)
+- Live Site URL: [https://johnmwendwa.github.io/pricing-component-with-toggle](https://johnmwendwa.github.io/pricing-component-with-toggle/)
 
 ## My process
 
